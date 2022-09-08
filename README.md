@@ -8,7 +8,7 @@ flow chart
 ## Project was completed using
 
 - C language
-- Shell jj
+- Shell
 - Betty linter
 
 ## General Requirement for project
