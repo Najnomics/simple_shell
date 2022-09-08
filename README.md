@@ -7,7 +7,7 @@ flow chart
 
 ## Project was completed using
 
-- C language ,
+- C language
 - Shell
 - Betty linter
 
